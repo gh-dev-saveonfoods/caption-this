@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome SOF to our slide deck!"
 ---
 
 Commented by Mansimar Kaur
